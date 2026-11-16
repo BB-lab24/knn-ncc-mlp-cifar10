@@ -64,3 +64,5 @@ The project was developed in a **Python** environment (using Google Colab with a
 ## 📈 Evaluation & Insights (Per Class Analysis)
 
 The project includes detailed reporting for per-class accuracy, as well as the generation of correct and incorrect prediction examples. This provides insights into which images frequently confuse the algorithms (e.g., misclassifying a cat as a dog, or an automobile as a truck). Additionally, detailed Loss and Accuracy curves are generated automatically to visualize the training process.
+
+Check out the next part [Part 2: SVM & Hinge-Loss MLP](https://github.com/BB-lab24/svm-hinge_mlp-knn-ncc-cifar10)
